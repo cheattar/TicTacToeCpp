@@ -1,8 +1,6 @@
 ﻿// TicTacToe.cpp: definiuje punkt wejścia dla aplikacji.
 //
 
-// TODO: Fix bug, when inputing an blank input the 'game' frezzes.
-
 #include "TicTacToe.h"
 
 using namespace std;
