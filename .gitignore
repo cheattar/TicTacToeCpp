@@ -30,3 +30,7 @@
 *.exe
 *.out
 *.app
+
+# vscode and cmake shizz
+out/
+.vs/
