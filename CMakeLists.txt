@@ -15,7 +15,7 @@ project ("TicTacToe")
 add_executable (tictactoe "TicTacToe.cpp")
 
 if (CMAKE_VERSION VERSION_GREATER 3.12)
-  set_property(TARGET tictactoe PROPERTY CXX_STANDARD 20)
+  set_property(TARGET tictactoe PROPERTY CXX_STANDARD 11)
 endif()
 
 # TODO: Dodaj testy i zainstaluj elementy docelowe w razie potrzeby.
